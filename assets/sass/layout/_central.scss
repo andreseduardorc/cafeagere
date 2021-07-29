@@ -1,0 +1,60 @@
+.central__img {
+    width: 65%;
+    position: relative;
+    left: 3rem;
+}
+
+.central__text {
+    margin-left: 10rem;
+}
+
+.principal {
+    font-family: $mono;
+    font-size: $xxx-large;
+}
+
+.secundario {
+    font-family: $mono;
+    font-size: $medium
+}
+
+.floating {
+    text-align: left;
+    background-color: $white;
+    font-family: $mono;
+    position: relative;
+    left: 30rem;
+    bottom: 6rem;
+}
+
+.floating__box {
+    max-width: 8%;
+}
+
+.floating__box-2 {
+    max-width: 17%;
+}
+
+.floating__box__up {
+    font-size: $x-large;
+}
+
+.icono {
+    width: 7rem;
+    height: 7rem;
+    font-size: 3rem;
+    background-color: $flame;
+    text-align: center;
+    padding-top: 2rem;
+    color: $white;
+    position: absolute;
+    bottom: 2rem;
+    left: 28rem;
+}
+
+.box {
+    width: 7rem;
+    height: 7rem;
+    background-color: $buff;
+    margin-left: 1rem;
+}

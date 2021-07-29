@@ -1,0 +1,57 @@
+.coffe {
+    position: relative;
+}
+
+.coffe__text {
+    left: 7rem;
+    bottom: 2rem;
+    font-family: $mono;
+}
+
+.coffe__text-box {
+    max-width: 75%;
+}
+
+.coffe__text__parrafo {
+    font-size: $medium;
+}
+
+.coffe__map {
+    bottom: 3.5rem;
+    z-index: 1;
+}
+
+.coffe__map__img {
+    width: 25rem;
+    height: 12rem;
+}
+
+.shadownmap {
+    height: 15rem;
+    background-color: $blueDeFrance;
+    bottom: 7rem;
+    left: -12.1rem;
+}
+
+.coffe__grain {
+    position: relative;
+    bottom: 7rem;
+    right: 13rem;
+    z-index: 1;
+}
+
+.coffe__grain__img {
+    width: 6rem;
+    height: 10rem;
+}
+
+.coffe__maker {
+    position: absolute;
+    bottom: 5rem;
+    right: 13rem;
+}
+
+.coffe__maker__img {
+    width: 24.5rem;
+    height: 17rem;
+}
